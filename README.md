@@ -1,7 +1,7 @@
 👋 Dennis McGinley
 - Analytics Leader leveraging data to drive GTM Strategy.  
 
-I'm a Full Stack Analyst with a porfolio of projects across Analytics Engineering, Analytics, and Business Intelligence all designed to:
+🚀 I consider myself a Full Stack Analyst with a porfolio of projects across Analytics Engineering, Analytics, and Business Intelligence all designed to:
 - Increase Top of Funnel performance (ie: increased registrations, conversions, ARPU, and ARPPU)
 - Maximize Marketing efficiency for optimal LTV:CAC ratio channels while increasing Spend
 - Understand product engagement to increase user Retention and craft win-back opportunities that target disillusioned customers
@@ -15,10 +15,14 @@ I'm a Full Stack Analyst with a porfolio of projects across Analytics Engineerin
 - Next, I got an opporunity to lead the Strategic Analytics department at Rachio where I led a team to build an end to end customer data platform that supplied all insights and analytics for C-Suite and Board meetings.
 - Finally, I've been spending the last 3 years at Burner, building a world class Analytics and BI dept and with our data, we've increased ARR over 75% and new cohort LTV over 33%.
 
-In my spare time, you'll find me snowboarding, hiking, and exploring new restaurants (obsessed over tacos).
+🏂 In my spare time, you'll find me
+- Snowboarding
+- Hiking
+- Exploring new restaurants (obsessed over tacos)
 
 👨🏽‍💻 Skills
 - Analytics: SQL, Python, Excel
 - Analytics Engineering: dbt
 - Databases: Redshift, Snowflake 
 - Visualization: Tableau, Mode, Looker
+
