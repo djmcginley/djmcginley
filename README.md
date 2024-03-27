@@ -1,5 +1,5 @@
 👋 Dennis McGinley
-Analytics Leader leveraging data to drive GTM Strategy.  
+- Analytics Leader leveraging data to drive GTM Strategy.  
 
 I'm a Full Stack Analyst with a porfolio of projects across Analytics Engineering, Analytics, and Business Intelligence all designed to:
 - Increase Top of Funnel performance (ie: increased registrations, conversions, ARPU, and ARPPU)
