@@ -5,7 +5,7 @@
 - I have a porfolio of projects across Analytics Engineering, Analytics, and Business Intelligence all designed to:
   - Increase Top of Funnel performance (ie: increased registrations, conversions, ARPU, and ARPPU)
   - Maximize Marketing efficiency for optimal LTV:CAC ratio channels while increasing Spend
-  - Understand product engagement to increase user Retention and craft win-back opportunities that target disillusioned customers
+  - Increase user Retention
   - Use Cohort Analysis to understand how overall business health is trending
 
 📖 My Story
