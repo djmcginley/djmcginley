@@ -1,10 +1,12 @@
-👋 Dennis McGinley: Analytics Leader leveraging data to drive GTM Strategy
+👋 Hi, I'm Dennis McGinley
+- Analyst turned department Leader leveraging data to drive GTM Strategy
 
-🚀 Analyst at heart leading Analytics teams with a porfolio of projects across Analytics Engineering, Analytics, and Business Intelligence all designed to:
-- Increase Top of Funnel performance (ie: increased registrations, conversions, ARPU, and ARPPU)
-- Maximize Marketing efficiency for optimal LTV:CAC ratio channels while increasing Spend
-- Understand product engagement to increase user Retention and craft win-back opportunities that target disillusioned customers
-- Use Cohort Analysis to understand how overall business health is trending
+🚀 Growth is my Passion
+- I have a porfolio of projects across Analytics Engineering, Analytics, and Business Intelligence all designed to:
+  - Increase Top of Funnel performance (ie: increased registrations, conversions, ARPU, and ARPPU)
+  - Maximize Marketing efficiency for optimal LTV:CAC ratio channels while increasing Spend
+  - Understand product engagement to increase user Retention and craft win-back opportunities that target disillusioned customers
+  - Use Cohort Analysis to understand how overall business health is trending
 
 📖 My Story
 - In 2014 I landed my first job as an entry level data analyst for a market research firm combining stats and market data to drive decision making for executive audiences at Intel, HP, Google, IBM, etc.
