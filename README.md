@@ -9,7 +9,7 @@
   - Increase Net Revenue Growth
 
 ### 📖 My Story
-- In 2014 I landed my first job as an entry level data analyst for a market research firm combining stats and market data to drive decision making for executive audiences at Intel, HP, Google, IBM, etc.
+- In 2014 I landed my first job as a data analyst for a market research firm combining stats and market data to drive decision making for executive audiences at Intel, HP, Google, IBM, etc.
 - Next, I went on to Singularity University where I started the Business Intelligence department from scratch and focused my team's efforts on Marketing optimization and Product Engagement.
 - From there, I went to ForeScout Technologies as the Global Sales Operations Analyst to craft a data driven strategy that would increase our Fortune 100 penetration rate by 27%.
 - During the Pandemic, I helped SlingTV increase adoption of their flagship product by over 50%.
