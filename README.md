@@ -1,6 +1,4 @@
 ### 👋 Hi, I'm Dennis McGinley
-Analyst turned department Leader leveraging data to drive GTM Strategy
-
 #### 🚀 Growth is my Passion
 - Increasing Top of Funnel performance
 - Maximizing Marketing efficiency for optimal LTV:CAC ratios
